@@ -3,11 +3,11 @@
 A command-line utility for retrieving geographical coordinates (latitude and longitude) from city/state names or zip codes using the Open Weather Geocoding API.
 
 **Features**
-Retrieve latitude and longitude for:
-City and state combinations (e.g., "Madison, WI")
-Zip codes (e.g., "12345")
-Handle multiple locations in a single command
-Provides user-friendly error messages for invalid inputs
+* Retrieve latitude and longitude for:
+* City and state combinations (e.g., "Madison, WI")
+* Zip codes (e.g., "12345")
+* Handle multiple locations in a single command
+* Provides user-friendly error messages for invalid inputs
 
 **Requirements**
 Python 3.6 or higher
